@@ -6,4 +6,4 @@ def using_unshift(neighborhoods_in_northwest_brooklyn, new_neighborhood)
   neighborhoods_in_northwest_brooklyn.unshift(new_neighborhood)
 end
 
-
+def using_pop()
