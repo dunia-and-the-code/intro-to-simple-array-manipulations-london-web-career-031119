@@ -43,7 +43,7 @@ def using_delete(instructors, string)
 end
 
 def using_delete_at(famous_robots, index)
-  famous_robots.delete(index)
+  famous_robots.delete(2)
 end
 
 
